@@ -18,4 +18,4 @@ new CommonTitleBar().init(this)
 ```
 ## 注意：
 这个库目前不支持多个同级fragment的情况，比如项目首页几个tab，除非多个tab有相同的样式和逻辑；
-![](https://github.com/PickyQiu/CommonTitleBar/raw/master/screenshot/screenshot.png)
+![](https://github.com/PickyQiu/CommonTitleBar/raw/master/screenshot_small/screenshot.png)
