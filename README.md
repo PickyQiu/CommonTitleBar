@@ -1,6 +1,8 @@
 # 使用方法：
 		一般情况下使用：一般情况下指的是左边一个返回按钮，中间设置一个标题
+		 ```Java
    		 new CommonTitleBar().init(this).setTitle("登录").create();               //这行代码适用于大部分需求<br>
+		 ```
 		其他功能：<br>
 		 new CommonTitleBar().init(this)<br>
 		 .setRightTextColor(R.color.colorPrimary)       //单独设置当前页面的颜色<br>
